@@ -15,5 +15,17 @@
 *JavaScript
 
 
+Windows:
+
+```bash
+$ git remote add origin https://github.com/Nozim123/Food-Website.git
+```
+
+### License
+
+This project is **free to use** and does not contains any license.
+
+
+
 
 
