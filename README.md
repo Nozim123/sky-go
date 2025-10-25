@@ -2,7 +2,7 @@
 
 [Sky-go](https://sky-go-two.vercel.app/)
 
-Technologies used in the project:
+<h2>Technologies used in the project:</h2>
 
 *Html
 
