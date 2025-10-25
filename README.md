@@ -18,7 +18,7 @@
 Windows:
 
 ```bash
-[$ git remote add origin https://github.com/Nozim123/Food-Website.git](https://github.com/Nozim123/sky-go.git)
+[$ git remote add origin https://github.com/Nozim123/sky-go.git]
 ```
 
 ### License
